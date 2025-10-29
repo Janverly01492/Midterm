@@ -58,3 +58,29 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
    ```bash
    git clone https://github.com/Janverly01492/Midterm.git
    cd Midterm
+2. **Install Defendencies**
+    ```bash
+    composer install
+    npm install
+    npm run dev
+3. **Set Up Environment Variables
+   ```bash
+   cp .env.example .env
+
+    Then update .env with local database credentials:
+       ```bash
+       DB_HOST=127.0.0.1
+       DB_PORT=3306
+       DB_DATABASE=midterm_db
+       DB_USERNAME=root
+       DB_PASSWORD=
+4. **Generate Application Key**
+   ```bash
+   php artisan key:generate
+5. **Run Migrations**
+   ```bash
+   php artisan migrate
+6. **Serve the Application**
+   ```bash
+   php artisan serve
+
