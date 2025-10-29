@@ -1,25 +1,13 @@
-
-<p align="center">
-    <a href="https://github.com/Janverly01492/Midterm" target="_blank">
-    </a>
-</p>
-
 <p align="center">
     <a href="https://github.com/Janverly01492/Midterm/actions">
-        <img src="https://img.shields.io/github/workflow/status/Janverly01492/Midterm/CI-Build" alt="Build Status">
     </a>
     <a href="https://github.com/Janverly01492/Midterm">
-        <img src="https://img.shields.io/github/repo-size/Janverly01492/Midterm" alt="Repo Size">
-    </a>
-    <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-    </a>
 </p>
 
 ---
 
-# 📘 Project Title
-**Simple Inventory Management System**
+# **Simple Inventory Management System**
+
 
 ---
 
@@ -48,10 +36,18 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 - **View List** – Display all inventory items with real-time data updates.  
 - **Search Feature** – Quickly locate items by name or category.  
 - **Dashboard** – Provides an overview of stock quantities and item counts.  
-- **Validation** – Ensures proper input before saving records.  
 
 ---
 
+## Images
+
+
+
+
+
+
+
+---
 ## 🧩 Installation Instructions
 
 1. **Clone the Repository**
@@ -85,3 +81,4 @@ Then update .env with local database credentials:
    ```bash
    php artisan serve
 
+---
