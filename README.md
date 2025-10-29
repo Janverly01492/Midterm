@@ -41,14 +41,33 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 
 ## Images
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+## Product Dashboard
+
+Displays a list of all available products along with their price, stock, and actions to edit or delete an item.
+It helps users easily monitor inventory and manage products efficiently.
 
 ![Dashboard Screenshot](screenshots/dashboard(prod).png)
 
-![Dashboard Screenshot](screenshots/edit.png)
+## Edit Product 
 
+Enables users to modify existing product details such as the name, price, or stock count.
+This ensures that any updates or corrections to product data can be easily managed within the system.
+![Dashboard Screenshot](screenshots/edit_prod.png)
 
+## Add Product 
 
+This page allows the user to add new products to the system by entering the product’s name, price, and available stock quantity.
+It provides a simple and user-friendly form interface for quick data input.
+
+![Dashboard Screenshot](screenshots/add_prod.png)
+
+###  Sales Confirmation Alert
+
+This screenshot shows the **confirmation prompt** that appears when a user attempts to delete a sales record.  
+The alert message `"Are you sure?"` ensures that users confirm their action before permanently deleting any data.  
+This feature helps prevent accidental deletions and maintains data integrity within the sales management system.
+
+![Dashboard Screenshot](screenshots/delete.png)
 
 
 ---
