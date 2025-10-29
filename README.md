@@ -67,6 +67,8 @@ This screenshot shows the **confirmation prompt** that appears when a user attem
 The alert message `"Are you sure?"` ensures that users confirm their action before permanently deleting any data.  
 This feature helps prevent accidental deletions and maintains data integrity within the sales management system.
 
+
+
 ![Dashboard Screenshot](screenshots/delete.png)
 
 
