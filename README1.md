@@ -63,17 +63,18 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
     composer install
     npm install
     npm run dev
-3. **Set Up Environment Variables
+3. **Set Up Environment Variables**
    ```bash
    cp .env.example .env
 
-    Then update .env with local database credentials:
-       ```bash
-       DB_HOST=127.0.0.1
+Then update .env with local database credentials:
+ ```bash
+ DB_HOST=127.0.0.1
        DB_PORT=3306
        DB_DATABASE=midterm_db
        DB_USERNAME=root
        DB_PASSWORD=
+```
 4. **Generate Application Key**
    ```bash
    php artisan key:generate
