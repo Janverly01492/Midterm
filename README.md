@@ -8,7 +8,7 @@
 
 # **Simple Inventory Management System**
 ###### Made by
-&nbsp; **Janverly Mhay O. Bacani**  <!-- &nbsp is for tab as per gpt-->
+&nbsp;&nbsp;**Janverly Mhay O. Bacani**  <!-- &nbsp is for tab as per gpt-->
 
 ---
 
@@ -87,14 +87,14 @@ This feature helps prevent accidental deletions and maintains data integrity wit
    ```bash
    cp .env.example .env
 
-Then update .env with local database credentials:
+&nbsp;&nbsp;Then update .env with local database credentials:
  ```bash
-       DB_HOST=127.0.0.1
-       DB_PORT=3306
-       DB_DATABASE=midterm_db
-       DB_USERNAME=root
-       DB_PASSWORD=
-```
+      &nbsp;&nbsp; DB_HOST=127.0.0.1
+      &nbsp;&nbsp; DB_PORT=3306
+      &nbsp;&nbsp; DB_DATABASE=midterm_db
+      &nbsp;&nbsp; DB_USERNAME=root
+      &nbsp;&nbsp; DB_PASSWORD=
+ ```
 3. **Generate Application Key**
    ```bash
    php artisan key:generate
