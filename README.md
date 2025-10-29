@@ -91,7 +91,7 @@ This feature helps prevent accidental deletions and maintains data integrity wit
    ```bash
    DB_HOST=127.0.0.1
    DB_PORT=3306
-    DB_DATABASE=midterm_db
+   DB_DATABASE=midterm_db
    DB_USERNAME=root
    DB_PASSWORD=
    ```
@@ -105,7 +105,7 @@ This feature helps prevent accidental deletions and maintains data integrity wit
    ```bash
    php artisan serve
 
-6. ** Connect local folder to GitHub Repository**
+6. **Connect local folder to GitHub Repository**
    ```bash
    cd Midterm
    git remote add origin https://github.com/Janverly01492/Midterm
