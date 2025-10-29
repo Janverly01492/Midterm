@@ -41,7 +41,11 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 
 ## Images
 
+![Dashboard Screenshot](screenshots/dashboard.png)
 
+![Dashboard Screenshot](screenshots/dashboard(prod).png)
+
+![Dashboard Screenshot](screenshots/edit.png)
 
 
 
