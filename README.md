@@ -7,11 +7,12 @@
 ---
 
 # **Simple Inventory Management System**
-
+##### Made by
+Janverly Mhay O. Bacani
 
 ---
 
-## 🧾 Description / Overview
+## Description / Overview
 The **Simple Inventory Management System** is a web-based application developed as a midterm project requirement.  
 It allows users to manage inventory records — adding, viewing, updating, and deleting items — through an intuitive interface.  
 The project is built using **PHP (Laravel Framework)**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
@@ -20,7 +21,7 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Develop a working CRUD web application using Laravel and MySQL.  
 - Apply MVC (Model-View-Controller) design principles.  
 - Demonstrate data manipulation through forms and dynamic display.  
@@ -29,7 +30,7 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 
 ---
 
-## ⚙️ Features / Functionality
+## Features / Functionality
 - **Add Item** – Insert new inventory records into the system.  
 - **Edit Item** – Update existing item details.  
 - **Delete Item** – Remove records from the database.  
@@ -41,20 +42,21 @@ This system demonstrates CRUD (Create, Read, Update, Delete) functionalities and
 
 ## Images
 
-## Product Dashboard
+### Product Dashboard
 
 Displays a list of all available products along with their price, stock, and actions to edit or delete an item.
 It helps users easily monitor inventory and manage products efficiently.
 
 ![Dashboard Screenshot](screenshots/dashboard(prod).png)
 
-## Edit Product 
+### Edit Product 
 
 Enables users to modify existing product details such as the name, price, or stock count.
 This ensures that any updates or corrections to product data can be easily managed within the system.
+
 ![Dashboard Screenshot](screenshots/edit_prod.png)
 
-## Add Product 
+### Add Product 
 
 This page allows the user to add new products to the system by entering the product’s name, price, and available stock quantity.
 It provides a simple and user-friendly form interface for quick data input.
