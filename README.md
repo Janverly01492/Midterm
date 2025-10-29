@@ -86,15 +86,15 @@ This feature helps prevent accidental deletions and maintains data integrity wit
 2. **Set Up Environment Variables**
    ```bash
    cp .env.example .env
-``~
-Then update .env with local database credentials:
-```bash
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
+   ```
+    Then update .env with local database credentials:
+   ```bash
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
     DB_DATABASE=midterm_db
-    DB_USERNAME=root
-    DB_PASSWORD=
-```
+   DB_USERNAME=root
+   DB_PASSWORD=
+   ```
 3. **Generate Application Key**
    ```bash
    php artisan key:generate
